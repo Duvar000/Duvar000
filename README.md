@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋, my name is İsmail Arındı
 
-<!--
-**Duvar000/Duvar000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Skills: Html / Css / Javascript / PHP / Laravel / SLQLite 
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on JAVA, JIRA, ATLASSIAN 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning JAVA
+
+* 📫 How to reach me: usluarda58@gmail.com
+
+ 
+![Profile views](https://gpvc.arturio.dev/Duvar000)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Duvar000&show_icons=true)
+
+
+
