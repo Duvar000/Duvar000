@@ -1,12 +1,12 @@
 ## Hi there 👋, my name is İsmail Arındı
 
-* 💻 Skills: Html / Css / Javascript / PHP / Laravel / SLQLite 
+*  Skills: Html / Css / Javascript / PHP / Laravel / SLQLite 
 
-* 🔭 I’m currently working on Visual Studio Code and Trello 
+*  I’m currently working on Visual Studio Code and Trello 
 
-* 🌱 I’m currently learning SEO
+*  I’m currently learning SEO
 
-* 📫 How to reach me: ismail.arindi.000@gmail.com
+*  How to reach me: ismail.arindi.000@gmail.com
 
  
 ![Profile views](https://gpvc.arturio.dev/Duvar000)  
