@@ -12,7 +12,7 @@
 ![Profile views](https://gpvc.arturio.dev/Duvar000)  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Duvar000&show_icons=true)
 
-#### [More info](https://duvar000.github.io/more-info/)
+### [More info...](https://duvar000.github.io/more-info/)
 
 
 
