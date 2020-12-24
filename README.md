@@ -12,7 +12,6 @@
 ![Profile views](https://gpvc.arturio.dev/Duvar000)  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Duvar000&show_icons=true)
 
-#### [my website](http://duvarwebsite.herokuapp.com) 
 #### [More info](https://duvar000.github.io/more-info/)
 
 
