@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is İsmail Arındı
 
-*  Skills: Html / Css / Javascript / PHP / Laravel / SLQLite 
+*  Skills: Html / Css / Javascript / PHP / Laravel Python / Django / SLQLite / 
 
 *  I’m currently working on Visual Studio Code and Trello 
 
