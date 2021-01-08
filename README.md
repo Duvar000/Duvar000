@@ -13,5 +13,6 @@ How to reach me: <a class="black" href="mailto:ismail.arindi.000@gmail.com"> ism
 * [my website](http://duvarwebsite.herokuapp.com) ✔
 * [free stylesheet](https://stylesheetfree.herokuapp.com) ❌
 
-## [More info](https://duvar000.github.io/more-info/)
+<h2 style="text-align:center;"><a href="https://duvar000.github.io/more-info/">More info</a></h2>
+
 
