@@ -1,7 +1,15 @@
 # Who a am?
 Hello, my name is İsmail arındı.I am from Eskisehir and I live there.I like astronomy and reading to book. <br> <br>
 
-Skills: Html / Css / Javascript / PHP / Laravel / Python / Django / SLQLite 
+Skills: <br>
+Database : SLQLite / PostgreSQL / mongodb  <br>
+Coding Languages :  Javascript  / node.js <br>
+Framework :   express.js  <br>
+other : Html / Css / SEO 
+<br><br>
+I’m currently working on Visual Studio Code and Trello
+<br><br>
+I’m currently learning Go
 
 I’m currently working on Visual Studio Code and Trello 
 
