@@ -2,9 +2,10 @@
 Hello, my name is İsmail arındı.I am from Eskisehir and I live there.I like astronomy and reading to book. <br> <br>
 
 Skills: <br>
-Database : SLQLite / PostgreSQL / mongodb  <br>
-Coding Languages :  Javascript  / node.js <br>
-Framework :   express.js  <br>
+Database : MySLQ   <br>
+Coding Languages : C# / python / Javascript  / php  <br>
+game engine : Unity
+Framework :   Laravel  <br>
 other : Html / Css / SEO 
 <br><br>
 I’m currently working on Visual Studio Code and Trello
@@ -17,6 +18,5 @@ How to reach me: <a class="black" href="mailto:ismail.arindi.000@gmail.com"> ism
 * [my website](http://duvarwebsite.herokuapp.com) ✔
 * [free stylesheet](https://stylesheetfree.herokuapp.com) ❌
 
-## [More info](https://duvar000.github.io/more-info/)
 
 
