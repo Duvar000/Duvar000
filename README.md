@@ -14,7 +14,7 @@ I’m currently learning Data science
 
 How to reach me: <a class="black" href="mailto:ismaill.arindi@gmail.com"> ismaill.arindi@gmail.com</a> <br>
 ## my projects ;
-* [my website - Updating]() ✔
+* [my website - Updating](https://github.com/Duvar000) ✔
 
 
 
