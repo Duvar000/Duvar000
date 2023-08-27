@@ -1,4 +1,4 @@
-# Who a am?
+# Who i am?
 Hello, my name is İsmail arındı.I am from Eskisehir and I live there.I like astronomy and reading to book. <br> <br>
 
 Skills: <br>
